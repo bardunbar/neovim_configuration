@@ -48,3 +48,5 @@ do
   vim.lsp.config("gdscript", {})
   vim.lsp.enable("gdscript")
 end
+
+vim.lsp.enable("codebook")
